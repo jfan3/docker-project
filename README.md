@@ -31,7 +31,7 @@ sudo usermod -a -G docker ec2-user
 
 * Git Clone the Repository with the Dockerfile and the application:
 ```bash
-git clone https://github.com/alexcengler/docker-shiny.git
+git clone https://github.com/jfan3/docker-project.git
 ```
 
 * Run
